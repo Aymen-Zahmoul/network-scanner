@@ -1,2 +1,13 @@
-# network-scanner
-a mini network scanner based on c language
+# Network Scanner (C)
+
+Simple CLI network scanner written in C.
+
+## Features
+- Scan a range of IP addresses
+- Detect active hosts using ping
+- Clean terminal output
+
+## Compilation
+
+```bash
+gcc scanner.c -o scanner
