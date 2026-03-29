@@ -11,3 +11,4 @@ Simple CLI network scanner written in C.
 
 ```bash
 gcc scanner.c -o scanner
+.\scanner "ipadd"
